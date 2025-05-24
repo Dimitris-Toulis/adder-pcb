@@ -1,0 +1,4 @@
+solder-pcb-backups
+*.lck
+*-bak
+*-cache
