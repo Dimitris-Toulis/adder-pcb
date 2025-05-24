@@ -1,4 +1,5 @@
 solder-pcb-backups
+src/production/backups
 *.lck
 *-bak
 *-cache
