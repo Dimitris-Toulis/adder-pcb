@@ -5,8 +5,8 @@ This is a pcb with two parts:
 2) A demo of the effect of resistance in the charge time of capacitors
 
 ![schematic](https://github.com/user-attachments/assets/e48fe1cd-358b-4992-b956-dd483636121f)
-![pcb](https://github.com/user-attachments/assets/986c1f75-e675-4c03-8683-6c100b39bae6)
-![3d view](https://github.com/user-attachments/assets/4c5d86cf-dc72-4589-a31a-62dc970e5410)
+![pcb](https://github.com/user-attachments/assets/825cc6f8-1ec7-4f3a-b857-859211f75b93)
+![3d view](https://github.com/user-attachments/assets/55144e73-c1fb-42b3-a05e-d8d13b71c4ce)
 
 ## BOM
 - 2 Battery holders
